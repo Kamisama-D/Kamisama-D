@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shengwen</h1>
-<h3 align="center">A passionate graduate student from University of Pittsburgh</h3>
+<h1 align="center">Hi 👋, I'm Jenny</h1>
+<h3 align="center">A passionate Ph.D. student from University of Pittsburgh</h3>
 
-- 🔭 I’m currently working on [information security and blockchain](https://arxiv.org/abs/2209.05017)
+- 🔭 I’m currently working on Cybersecurity and AI in DER Management.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
