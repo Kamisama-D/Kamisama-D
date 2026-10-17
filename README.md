@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Jenny</h1>
 <h3 align="center">A passionate Ph.D. student from University of Pittsburgh</h3>
 
-- 🔭 I’m currently working on Cybersecurity and AI in DER Management.
+- 🔭 I’m currently working on Cybersecurity and AI for Distributed Energy Resource (DER) management.
+- 🔬 Research interests: Reinforcement Learning · Machine Learning · Formal Method · Cyber-Physical Systems · IoT System Security · Smart Grid Security · EV Charging Infrastructure
+
+## 📰 News
+
+- **[Oct 2026]** 🎉 Paper accepted at [IEEE TPS 2026](https://tps.ieee-cs.org/2026/), to be presented in November in Silicon Valley, CA.
+- **[Jul 2026]** 🎉 Paper accepted at the CPS Workshop of [IEEE SmartGridComm 2026](https://sgc2026.ieee-smartgridcomm.org/), to be presented as a poster in October in College Station, TX.
+- **[Jan 2026]** 🎓 Passed both the preliminary and comprehensive exams!
+- **[Jan 2026]** 📑 Our paper "[Securing Electric Vehicle Systems via AI and Blockchains: A Survey](https://ieeexplore.ieee.org/abstract/document/11248879)" was published in *IEEE Internet of Things Journal*!
+- **[Nov 2025]** 🎉 First journal paper accepted by *IEEE Internet of Things Journal*!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shengwen-ding-54000b250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shengwen ding" height="30" width="40" /></a>
-<a href="https://kaggle.com/jennnnnyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shengwen ding" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamisama-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamisama-d" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=FJ6y61wAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.simpleicons.org/googlescholar/4285F4" alt="Google Scholar" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/jennnnnyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shengwen ding" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kamisama-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamisama-d" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
