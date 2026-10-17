@@ -6,11 +6,11 @@
 
 ## 📰 News
 
-- **[Oct 2026]** 🎉 Paper accepted at [IEEE TPS 2026](https://tps.ieee-cs.org/2026/), to be presented in November in Silicon Valley, CA.
-- **[Jul 2026]** 🎉 Paper accepted at the CPS Workshop of [IEEE SmartGridComm 2026](https://sgc2026.ieee-smartgridcomm.org/), to be presented as a poster in October in College Station, TX.
+- **[Oct 2026]** 🎉 Paper accepted at [*IEEE TPS 2026*](https://tps.ieee-cs.org/2026/), to be presented in November in Silicon Valley, CA.
+- **[Jul 2026]** 🎉 Paper accepted at the CPS Workshop of [*IEEE SmartGridComm 2026*](https://sgc2026.ieee-smartgridcomm.org/), to be presented as a poster in October in College Station, TX.
 - **[Jan 2026]** 🎓 Passed both the preliminary and comprehensive exams!
 - **[Jan 2026]** 📑 Our paper "[Securing Electric Vehicle Systems via AI and Blockchains: A Survey](https://ieeexplore.ieee.org/abstract/document/11248879)" was published in *IEEE Internet of Things Journal*!
-- **[Nov 2025]** 🎉 First journal paper accepted by *IEEE Internet of Things Journal*!
+- **[Nov 2025]** 🎉 First journal paper accepted by [*IEEE Internet of Things Journal*](https://ieee-iotj.org/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
