@@ -2,12 +2,16 @@
 <h3 align="center">A passionate Ph.D. student from University of Pittsburgh</h3>
 
 - 🔭 I’m currently working on Cybersecurity and AI for Distributed Energy Resource (DER) management.
-- 🔬 Research interests: Reinforcement Learning · Machine Learning · Formal Method · Cyber-Physical Systems · IoT System Security · Smart Grid Security · EV Charging Infrastructure
+- 🔬 Research interests: Agentic AI/Systems · Reinforcement Learning · Deep Learning · Formal Method · Cyber-Physical Systems · IoT System Security · Smart Grid Security · Distributed Energy Resource Management Systems · EV Charging Infrastructure
 
 ## 📰 News
 
-- **[Jan 2026]** 🎓 Passed both the preliminary and comprehensive exams!
-- **[Jan 2026]** 📑 Our paper "[Securing Electric Vehicle Systems via AI and Blockchains: A Survey](https://ieeexplore.ieee.org/abstract/document/11248879)" was published in *IEEE Internet of Things Journal*!
+- **[Nov 2026]** 🎤 Presented our paper "CROWN: Carbon-and Price-Aware Multi-Objective Reinforcement Learning for Battery Energy Management under Integrity Attacks" at [IEEE TPS 2026](https://tps.ieee-cs.org/2026/) in San Jose, CA.
+- **[Oct 2026]** 🎤 Presented our paper "Trust-Based Localization of Compromised Meters in EV-Integrated Smart Grids under Energy Theft Attacks" with a poster at [IEEE SmartGridComm 2026](https://sgc2026.ieee-smartgridcomm.org/) in College Station, TX.
+- **[Oct 2026]** 🎉 Paper accepted at the *IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications* ([IEEE TPS 2026](https://tps.ieee-cs.org/2026/))!
+- **[Jul 2026]** 🎉 Paper accepted at the *IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids 2026* ([IEEE SmartGridComm 2026](https://sgc2026.ieee-smartgridcomm.org/)) CPS Workshop!
+- **[Jan 2026]** 🎓 Passed both the *PRELIMINARY* and *COMPREHENSIVE* examinations for my PhD program!
+- **[Jan 2026]** 📑 Our paper "[Securing Electric Vehicle Systems via AI and Blockchains: A Survey](https://ieeexplore.ieee.org/abstract/document/11248879)" was published in [*IEEE Internet of Things Journal*](https://ieee-iotj.org/)!
 - **[Nov 2025]** 🎉 First journal paper accepted by [*IEEE Internet of Things Journal*](https://ieee-iotj.org/)!
 
 <h3 align="left">Connect with me:</h3>
