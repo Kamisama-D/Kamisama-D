@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenny</h1>
 <h3 align="center">A passionate Ph.D. student from University of Pittsburgh</h3>
 
-- 🔭 I’m currently working on Cybersecurity and AI for Distributed Energy Resource (DER) management.
+- 🔭 I’m currently working on Cybersecurity and AI for Distributed Energy Resource (DER) management systems.
 - 🔬 Research interests: Agentic AI/Systems · Reinforcement Learning · Deep Learning · Formal Method · Cyber-Physical Systems · IoT System Security · Smart Grid Security · Distributed Energy Resource Management Systems · EV Charging Infrastructure
 
 ## 📰 News
